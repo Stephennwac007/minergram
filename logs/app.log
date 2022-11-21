@@ -1,0 +1,6 @@
+[2022/11/21 03:34:36 WAT] [fileLogs] [INFO] (github.com/workshopapps/pictureminer.api/internal/config.Setup:44) configurations loading successfully
+[2022/11/21 03:34:44 WAT] [fileLogs] [INFO] (github.com/workshopapps/pictureminer.api/pkg/repository/storage/mongodb.ConnectToDB:43) MONGO CONNECTION ESTABLISHED
+[2022/11/21 03:34:44 WAT] [fileLogs] [INFO] (main.main:39) Server is starting at 127.0.0.1:9000
+[2022/11/21 09:07:26 WAT] [fileLogs] [INFO] (github.com/workshopapps/pictureminer.api/internal/config.Setup:44) configurations loading successfully
+[2022/11/21 09:07:34 WAT] [fileLogs] [INFO] (github.com/workshopapps/pictureminer.api/pkg/repository/storage/mongodb.ConnectToDB:43) MONGO CONNECTION ESTABLISHED
+[2022/11/21 09:07:34 WAT] [fileLogs] [INFO] (main.main:39) Server is starting at 127.0.0.1:9000
